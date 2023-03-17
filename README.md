@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on learning software development with TechEd.
+
 <!--
 **Blendshe/Blendshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
