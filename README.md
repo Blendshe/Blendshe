@@ -8,7 +8,8 @@ I joined the evening Fullstack bootcamp which began in January 2023.
 
 The time has gone really fast so far, I'm ha;fway through and have learned a lot. Some of it has been really enjoyable and other parts I have more work to do to fully understand and be able to apply the concepts.  
 
-The course has been split into 3 modules and so far have completed 2, learning the following:
+The course has been split into 3 modules and so far have completed 2 and the project i developed for the end of the second project was a photography website, and I really enjoyed it and have decided to continue to develop it in my own time
+<!--learning the following:
 
 Github - Markdown (.md), Repl.it, VS Code, Wireframe, Mockup, Prototype
 ## CSS   
@@ -48,6 +49,6 @@ DOM manipulation
 
 ## JSON
 
-## Data persistance -> localStorage
+## Data persistance -> localStorage-->
 
-The project i developed for the end of the second project was a photography website, and I really enjoyed it and have decided to continue to develop it in my own time 
+ 
