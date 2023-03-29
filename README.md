@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on learning software development with TechEd.
 
-I came across the TechEd bootcamp on the Reddit Liverpool thread and sent a message that I was interested.  I joined the free bootcamp in December 2023, it was a full day online and I loved it! I decided to find out ore abou the Fullstack Bootcamp to explore if that was something I would particpate in. 
+I came across the TechEd bootcamp on the Reddit Liverpool thread and sent a message that I was interested.  I joined the free bootcamp in December 2022, it was a full day online and I loved it! I decided to find out ore abou the Fullstack Bootcamp to explore if that was something I would particpate in. 
 
 I joined the evening Fullstack bootcamp which began in January 2023. 
 
